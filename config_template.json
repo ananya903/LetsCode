@@ -1,8 +1,8 @@
 {
     "basic": {
-        "modelName": "AI0059",
+        "modelName": "AI0070",
         "modelVersion": "1",
-        "dataLocation": "/root/usecases/storage/AION_1707154830.csv",
+        "dataLocation": "/root/usecases/storage/AION_1707373521.csv.csv",
         "fileSettings": {
             "delimiters": ",",
             "textqualifier": "\""
